@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <h1>⚡ Smart Grid Edge AI Monitoring System</h1>
   <p><i>An advanced, multi-tiered architecture for real-time electrical grid monitoring, automated billing, and theft detection using Edge AI.</i></p>
@@ -116,3 +117,6 @@ python substations/main.py
 Terminal 3:
 npm run dev
 -->
+=======
+# GRIDD
+>>>>>>> 4706137645e758d8de90ac991d5a1074be7e609c
